@@ -9,22 +9,7 @@ function App() {
      <Header />
      <Hero/>
      <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
-     <Countres/>
+
     </div>
   );
 }
