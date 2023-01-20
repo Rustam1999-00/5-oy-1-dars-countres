@@ -52,17 +52,7 @@ function  countres (){
 
                 </div>
             </li>
-            <li className='coun-item'>
-                <div className='coun-wrap'>
-                     <img src={fleg} width={350} height={250}/>
-                        <h2>Uzbekiston</h2>
-                        <p>Population: 987456221</p>
-                        <p>Region: Asia</p>
-                        <p>Citiy: Tashkent</p>
-
-
-                </div>
-            </li>
+          
             <li className='coun-item'>
                 <div className='coun-wrap'>
                      <img src={fleg} width={350} height={250}/>
