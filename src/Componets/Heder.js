@@ -6,7 +6,7 @@ function Header (){
    return(
    <header>
     <h2 className='title'>COUNTRES</h2>
-    <button className='dark-button'> <img className='img' src={dark} width={50} height={50}/> Dark-mode </button>
+    <button className='dark-button'> <img className='img' src={dark} alt='dark-mode' width={50} height={50}/> Dark-mode </button>
    </header>
  
    )
